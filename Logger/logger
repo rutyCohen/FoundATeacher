@@ -1,0 +1,67 @@
+error : May-09-2022 06:04:09.850 : Unexpected token } in JSON at position 325
+error : May-09-2022 06:07:27.444 : ReferenceError: adress is not defined
+error : May-09-2022 06:07:27.452 : adress is not defined
+error : May-09-2022 06:07:57.455 : ReferenceError: adress is not defined
+error : May-09-2022 06:07:57.458 : adress is not defined
+error : May-09-2022 06:51:07.787 : ReferenceError: newUser is not defined
+error : May-09-2022 06:51:07.800 : newUser is not defined
+error : May-09-2022 06:55:25.483 : ReferenceError: newUser is not defined
+error : May-09-2022 06:55:25.499 : newUser is not defined
+error : May-09-2022 06:55:50.131 : ReferenceError: newUser is not defined
+error : May-09-2022 06:55:50.134 : newUser is not defined
+error : May-09-2022 06:57:39.147 : ValidationError: area: Cast to Embedded failed for value "jerusalem" (type string) at path "area" because of "ObjectExpectedError"
+error : May-09-2022 06:57:39.152 : user validation failed: area: Cast to Embedded failed for value "jerusalem" (type string) at path "area" because of "ObjectExpectedError"
+error : May-09-2022 07:18:44.184 : MongoServerError: E11000 duplicate key error collection: FoundATeacher.users index: email_1 dup key: { email: "ggggg@gmail.com" }
+error : May-09-2022 07:18:44.196 : E11000 duplicate key error collection: FoundATeacher.users index: email_1 dup key: { email: "ggggg@gmail.com" }
+error : May-09-2022 07:32:56.602 : MongoServerError: E11000 duplicate key error collection: FoundATeacher.users index: email_1 dup key: { email: "frffrf@gmail.com" }
+error : May-09-2022 07:32:56.616 : E11000 duplicate key error collection: FoundATeacher.users index: email_1 dup key: { email: "frffrf@gmail.com" }
+error : May-09-2022 07:44:41.250 : MongoServerError: E11000 duplicate key error collection: FoundATeacher.users index: email_1 dup key: { email: "ruty@gmail.com" }
+error : May-09-2022 07:44:41.262 : E11000 duplicate key error collection: FoundATeacher.users index: email_1 dup key: { email: "ruty@gmail.com" }
+error : May-09-2022 08:58:46.840 : ValidationError: area: Cast to Embedded failed for value "jerusalem" (type string) at path "area" because of "ObjectExpectedError"
+error : May-09-2022 08:58:46.848 : user validation failed: area: Cast to Embedded failed for value "jerusalem" (type string) at path "area" because of "ObjectExpectedError"
+error : May-09-2022 09:01:24.234 : ValidationError: area: Cast to Embedded failed for value "jerusalem" (type string) at path "area" because of "ObjectExpectedError"
+error : May-09-2022 09:01:24.242 : user validation failed: area: Cast to Embedded failed for value "jerusalem" (type string) at path "area" because of "ObjectExpectedError"
+error : May-09-2022 09:04:42.114 : ValidationError: area: Cast to Embedded failed for value "jerusalem" (type string) at path "area" because of "ObjectExpectedError"
+error : May-09-2022 09:04:42.122 : user validation failed: area: Cast to Embedded failed for value "jerusalem" (type string) at path "area" because of "ObjectExpectedError"
+error : May-09-2022 09:06:47.285 : ValidationError: area: Cast to Embedded failed for value "jerusalem" (type string) at path "area" because of "ObjectExpectedError"
+error : May-09-2022 09:06:47.287 : user validation failed: area: Cast to Embedded failed for value "jerusalem" (type string) at path "area" because of "ObjectExpectedError"
+error : May-09-2022 09:06:54.063 : ValidationError: area: Cast to Embedded failed for value "jerusalem" (type string) at path "area" because of "ObjectExpectedError"
+error : May-09-2022 09:06:54.065 : user validation failed: area: Cast to Embedded failed for value "jerusalem" (type string) at path "area" because of "ObjectExpectedError"
+error : May-09-2022 09:10:35.121 : ValidationError: area: Cast to Embedded failed for value "jerusalem" (type string) at path "area" because of "ObjectExpectedError"
+error : May-09-2022 09:10:35.128 : user validation failed: area: Cast to Embedded failed for value "jerusalem" (type string) at path "area" because of "ObjectExpectedError"
+error : May-10-2022 05:22:36.868 : ValidationError: area: Cast to Embedded failed for value "jerusalem" (type string) at path "area" because of "ObjectExpectedError"
+error : May-10-2022 05:22:36.874 : user validation failed: area: Cast to Embedded failed for value "jerusalem" (type string) at path "area" because of "ObjectExpectedError"
+error : May-10-2022 05:34:51.884 : ValidationError: institutionEmail: validator is not defined
+error : May-10-2022 05:34:51.893 : institution validation failed: institutionEmail: validator is not defined
+error : May-10-2022 05:35:47.320 : ValidationError: institutionEmail: validator is not defined
+error : May-10-2022 05:35:47.321 : institution validation failed: institutionEmail: validator is not defined
+error : May-10-2022 05:37:05.901 : ValidationError: institutionEmail: validator is not defined
+error : May-10-2022 05:37:05.903 : institution validation failed: institutionEmail: validator is not defined
+error : May-10-2022 05:37:23.232 : ValidationError: institutionEmail: validator is not defined
+error : May-10-2022 05:37:23.235 : institution validation failed: institutionEmail: validator is not defined
+error : May-10-2022 05:38:52.461 : ValidationError: institutionEmail: validator is not defined
+error : May-10-2022 05:38:52.475 : institution validation failed: institutionEmail: validator is not defined
+error : May-10-2022 05:58:55.773 : MongoServerError: E11000 duplicate key error collection: FoundATeacher.users index: email_1 dup key: { email: "aaa@gmail.com" }
+error : May-10-2022 05:58:55.781 : E11000 duplicate key error collection: FoundATeacher.users index: email_1 dup key: { email: "aaa@gmail.com" }
+error : May-10-2022 05:59:49.953 : ValidationError: gender: `m` is not a valid enum value for path `gender`.
+error : May-10-2022 05:59:49.956 : user validation failed: gender: `m` is not a valid enum value for path `gender`.
+error : May-11-2022 01:10:09.395 : MongoServerError: E11000 duplicate key error collection: FoundATeacher.institutions index: institutionEmail_1 dup key: { institutionEmail: "ssssm@gmail.com" }
+error : May-11-2022 01:10:09.401 : E11000 duplicate key error collection: FoundATeacher.institutions index: institutionEmail_1 dup key: { institutionEmail: "ssssm@gmail.com" }
+error : May-11-2022 01:15:44.972 : MongoServerError: E11000 duplicate key error collection: FoundATeacher.institutions index: manager.email_1 dup key: { manager.email: "mmmmm@gmail.com" }
+error : May-11-2022 01:15:44.985 : E11000 duplicate key error collection: FoundATeacher.institutions index: manager.email_1 dup key: { manager.email: "mmmmm@gmail.com" }
+error : May-11-2022 01:18:37.278 : MongoServerError: E11000 duplicate key error collection: FoundATeacher.institutions index: institutionEmail_1 dup key: { institutionEmail: "mmmm@gmail.com" }
+error : May-11-2022 01:18:37.283 : E11000 duplicate key error collection: FoundATeacher.institutions index: institutionEmail_1 dup key: { institutionEmail: "mmmm@gmail.com" }
+error : May-11-2022 01:23:16.202 : Unexpected token } in JSON at position 1098
+error : May-11-2022 01:29:54.749 : MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id'
+error : May-11-2022 02:01:04.255 : ReferenceError: userModel is not defined
+error : May-11-2022 02:01:04.261 : userModel is not defined
+error : May-11-2022 02:24:18.670 : TypeError: areaModel.findAll is not a function
+error : May-11-2022 02:24:18.673 : areaModel.findAll is not a function
+error : May-11-2022 02:45:39.594 : Cannot set headers after they are sent to the client
+error : May-11-2022 02:46:48.977 : Cannot set headers after they are sent to the client
+error : May-11-2022 02:47:43.199 : Cannot set headers after they are sent to the client
+error : May-11-2022 02:55:37.196 : Cannot set headers after they are sent to the client
+error : May-11-2022 02:56:19.966 : Cannot set headers after they are sent to the client
+error : May-11-2022 02:58:44.857 : Cannot set headers after they are sent to the client
+error : May-11-2022 02:59:31.685 : Cannot set headers after they are sent to the client
+error : May-11-2022 03:02:31.749 : Cannot set headers after they are sent to the client
